@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tan Xiao Xuan.
+- 👀 I’m interested in data science and machine learning.
+- 🌱 I’m currently learning exploratory data analysis. 
+- 💞️ I’m looking forward to internship opportunities during the summer break.
+- 📫 Email: txx4986@gmail.com
