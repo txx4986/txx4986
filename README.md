@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tan Xiao Xuan, an incoming second year Mathematics with Statistics student at Imperial College London.
+- 👋 Hi, I’m Tan Xiao Xuan, a second year Mathematics with Statistics student at Imperial College London.
 - 👀 I’m interested in data science and machine learning.
 - 🌱 I’m currently exploring the tech world by participating in hackathons and taking courses on Coursera and DataCamp. 
 - 👩‍💻 I’m looking forward to internship opportunities during the summer break.
