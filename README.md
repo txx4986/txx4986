@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Tan Xiao Xuan, a final year Mathematics with Statistics student at Imperial College London.
-- 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently exploring the data world by joining Kaggle and taking courses on Coursera and DataCamp. 
-- 👩‍💻 I’m looking forward to internship opportunities during the summer break. Although I have limited knowledge and experience in this field, I am willing to learn and pick up new skills.
-- 📫 Email: txx4986@gmail.com
+
